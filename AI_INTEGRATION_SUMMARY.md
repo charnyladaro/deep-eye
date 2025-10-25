@@ -249,8 +249,8 @@ vulnerability_scanner:
   "mcpServers": {
     "deep-eye": {
       "command": "python",
-      "args": ["F:\\HACKING TOOLS\\deep-eye\\mcp_server\\server.py"],
-      "cwd": "F:\\HACKING TOOLS\\deep-eye"
+      "args": ["path\\to\\deep-eye\\mcp_server\\server.py"],
+      "cwd": "path\\to\\deep-eye"
     }
   }
 }
